@@ -1,6 +1,7 @@
 # Resume Enhancer
 
 Resume Enhancer is a web application that allows users to upload their resumes in PDF format and generate enhanced resumes and cover letters tailored to specific job descriptions using OpenAI's GPT-3.5 model. The application leverages FastAPI for the backend and React for the frontend.
+![Screenshot 2025-01-24 at 11 35 35 AM](https://github.com/user-attachments/assets/3833f52b-090b-4d05-8e9a-d0f91a9b6d0c)
 
 ## Features
 
