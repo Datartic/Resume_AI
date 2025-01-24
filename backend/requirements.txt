@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+psycopg2
+sqlalchemy
+pydantic
+reportlab
+jinja2
+weasyprint
+faker
+openai
+python-dotenv
+markdown
+python-multipart
+pdfminer.six

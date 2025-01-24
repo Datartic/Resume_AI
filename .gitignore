@@ -1,0 +1,4 @@
+frontend/node_modules
+.DS_Store
+backend/venv
+backend/boreal-graph-444300-j7-96ae649231e8.json
